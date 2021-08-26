@@ -1,0 +1,7 @@
+- Revisar classificação
+- Print
+- Steamização
+- Arrumar um pouco mais o código
+- Fazer file de setup
+- Botar código dentro da source
+- Testar com mais textos
