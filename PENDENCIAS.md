@@ -5,3 +5,9 @@
 - Fazer file de setup
 - Botar código dentro da source
 - Testar com mais textos
+- Remover e-mails
+- Remover urls
+- Remover numerais de forma escrita
+- Entender palavras juntas
+- Remover verbos
+- Classificar melhor com outra lib talvez
