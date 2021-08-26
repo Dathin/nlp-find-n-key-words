@@ -1,5 +1,7 @@
+import os.path
+
 def ler_texto() -> str:
-    with open('texto.txt', 'r') as file:
+    with open(os.path.dirname(__file__) + '/../texto.txt', 'r') as file:
         return file.read();
 
 def solicitar_numero_de_palavras_chave() -> int:
