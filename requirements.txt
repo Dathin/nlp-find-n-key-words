@@ -1,2 +1,2 @@
 # Bibliotecas utilizadas para auxiliar
-nltk==3.6.2 # Usamos a biblioteca nltk "Natural Language Toolkit", para nos ajudar a entender melhor as pré processar e entender melhor a chave de cada palavra
+nltk==3.9 # Usamos a biblioteca nltk "Natural Language Toolkit", para nos ajudar a entender melhor as pré processar e entender melhor a chave de cada palavra
